@@ -17,12 +17,12 @@
 
 | Язык / Технология | Уровень | Прогресс |
 |-------------------|---------|----------|
-| JavaScript        | 70%     | ![JS](https://github.com/ArekuC/ArekuC/raw/main/bars/js.gif)      |
-| HTML/CSS          | 80%     | ![HTML](https://github.com/ArekuC/ArekuC/raw/main/bars/htmlcss.gif)|
-| PHP               | 50%     | ![PHP](https://github.com/ArekuC/ArekuC/raw/main/bars/php.gif)    |
-| C#                | 50%     | ![C#](https://github.com/ArekuC/ArekuC/raw/main/bars/csharp.gif)  |
-| Kotlin            | 30%     | ![Kotlin](https://github.com/ArekuC/ArekuC/raw/main/bars/kotlin.gif)|
-| SQL               | 60%     | ![SQL](https://github.com/ArekuC/ArekuC/raw/main/bars/sql.gif)    |
+| JavaScript        | 70%     | ![JS](https://github.com/alexa-tx/alexa-tx/raw/main/bars/js.gif)      |
+| HTML/CSS          | 80%     | ![HTML](https://github.com/alexa-tx/alexa-tx/raw/main/bars/htmlcss.gif)|
+| PHP               | 50%     | ![PHP](https://github.com/alexa-tx/alexa-tx/raw/main/bars/php.gif)    |
+| C#                | 50%     | ![C#](https://github.com/alexa-tx/alexa-tx/raw/main/bars/csharp.gif)  |
+| Kotlin            | 30%     | ![Kotlin](https://github.com/alexa-tx/alexa-tx/raw/main/bars/kotlin.gif)|
+| SQL               | 60%     | ![SQL](https://github.com/alexa-tx/alexa-tx/raw/main/bars/sql.gif)    |
 
 ### Tech Stack Icons
 <p align="center">
@@ -52,11 +52,11 @@
 ## 🔥 GitHub Streak & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArekuC&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexa-tx&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArekuC&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexa-tx&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
