@@ -15,14 +15,27 @@
 
 ## ⚡ Навыки и Tech Stack
 
-| Язык / Технология | Уровень | Прогресс |
-|-------------------|---------|----------|
-| JavaScript        | 70%     | ![JS](https://github.com/alexa-tx/alexa-tx/raw/main/bars/js.gif)      |
-| HTML/CSS          | 80%     | ![HTML](https://github.com/alexa-tx/alexa-tx/raw/main/bars/htmlcss.gif)|
-| PHP               | 50%     | ![PHP](https://github.com/alexa-tx/alexa-tx/raw/main/bars/php.gif)    |
-| C#                | 50%     | ![C#](https://github.com/alexa-tx/alexa-tx/raw/main/bars/csharp.gif)  |
-| Kotlin            | 30%     | ![Kotlin](https://github.com/alexa-tx/alexa-tx/raw/main/bars/kotlin.gif)|
-| SQL               | 60%     | ![SQL](https://github.com/alexa-tx/alexa-tx/raw/main/bars/sql.gif)    |
+### Навыки
+
+- **JavaScript**  
+  ![JavaScript](https://github.com/alexa-tx/alexa-tx/raw/main/bars/js.gif) 70%
+
+- **HTML/CSS**  
+  ![HTML/CSS](https://github.com/alexa-tx/alexa-tx/raw/main/bars/htmlcss.gif) 80%
+
+- **PHP**  
+  ![PHP](https://github.com/alexa-tx/alexa-tx/raw/main/bars/php.gif) 50%
+
+- **C#**  
+  ![C#](https://github.com/alexa-tx/alexa-tx/raw/main/bars/csharp.gif) 50%
+
+- **Kotlin**  
+  ![Kotlin](https://github.com/alexa-tx/alexa-tx/raw/main/bars/kotlin.gif) 30%
+
+- **SQL**  
+  ![SQL](https://github.com/alexa-tx/alexa-tx/raw/main/bars/sql.gif) 60%
+
+---
 
 ### Tech Stack Icons
 <p align="center">
@@ -34,6 +47,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
 </p>
+
+---
+
+## 🔥 GitHub Streak & Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexa-tx&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexa-tx&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
 
 ---
 
