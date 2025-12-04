@@ -75,6 +75,7 @@
   <em>“aesthetics are code too.”</em>
 </p>
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8be9fd,bd93f9&height=100&section=footer"/>
 </p>
